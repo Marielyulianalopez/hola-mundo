@@ -7,7 +7,7 @@
   <script src="script.js"></script>
 </head>
 <body>
-  <h1>Bienvenidos Hola Mundo</h1>
-  <h2>ChoicesPracticas Profesionalizantes</2>
+  <h1>Mi nombre es Mariel Yuliana Lopez</h1>
+  <h2>Soy estudiante de la carrera Tecnicatura Superior en Desarrollo de Software</2>
 </body>
 </html>
